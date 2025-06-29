@@ -4,6 +4,7 @@ def call() {
         git version
         java -version
         mvn -version
+        echo "Checking versions ..."
       '''
   }
 }
